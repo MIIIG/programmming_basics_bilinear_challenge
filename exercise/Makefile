@@ -1,3 +1,2 @@
 test:
-	echo "hello"
-
+	babel-node --presets=es2015 test.js
